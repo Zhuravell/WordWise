@@ -2,7 +2,7 @@ This is a todo list, or a rough roadmap.
 ✅ - once a task is completed, place a ticket mark emoji in between the brackets.
 
 ## Parsers 
-- [ ] Normalize inner spaces in input parsing. so for example | Flikken    Rotterdam | would be | Flikken Rotterdam |
+- [ ] Normalize inner spaces in input parsing. 
 - [ ] Normalize input, and improve error handling.
 
 ## Models
@@ -51,7 +51,7 @@ This is a todo list, or a rough roadmap.
 
 
 ## Cloud Service
-- [ ] Make the bot run 24/7 by connecting to cloud service, like AWS
+- [ ] Make the bot run 24/7 by connecting to a cloud service.
 
 ## Backup
 - [ ] Add /backup command or auto-export to file
