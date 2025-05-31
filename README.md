@@ -39,3 +39,8 @@ Uses PostgreSQL as the database backend. Connection details are managed via `.en
 Usage:
 - Do not run files directly, except `db_setup.py` if initializing the database.
 - Other modules should import `Session` and models from `models` to interact with the database.
+
+
+
+## Purpose
+This bot assists with vocabulary retention and active recall as part of my self-study for the Dutch B1 Staatsexamen(Programma I).
