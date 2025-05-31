@@ -9,21 +9,7 @@ WordWise (WW) is a telegram bot used for storage and practice of Dutch vocabular
 
 
 
-## Bot Package Overview
-
-This folder contains the main codebase for the WordWise Telegram bot.
-
-- `bot_core.py`: Initializes the bot and defines core logic.
-- `bot_commands.py`: Implements command handlers.
-- `parsers.py`: Helper functions for parsing input/output.
-- `utils.py`: Reserved for utility functions (currently empty).
-- `__init__.py`: Declares the package.
-
-
-
-
-
-- ## bot/ Package Overview
+## bot/ Package Overview
 
 This package contains the main logic for the WordWise Telegram bot.
 
